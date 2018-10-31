@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Justin Trudeau",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Justin_Trudeau_in_Lima%2C_Peru_-_2018_%2841507133581%29_%28cropped%29.jpg/400px-Justin_Trudeau_in_Lima%2C_Peru_-_2018_%2841507133581%29_%28cropped%29.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Stephen Harper",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Stephen-Harper-Cropped-2014-02-18.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Paul Martin",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Paul_martin_2004.jpg/473px-Paul_martin_2004.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Jean Chrétien",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Chr%C3%A9tien_crop_Sept_9_2002.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Kim Campbell",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/KimCampbell.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Brian Mulroney",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mulroney.jpg/428px-Mulroney.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "John Turner",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/John_Turner_by_Gage_Skidmore.jpg/457px-John_Turner_by_Gage_Skidmore.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Pierre Trudeau",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Pierre_Elliot_Trudeau-2.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Joe Clark",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/JoeClark.jpg/495px-JoeClark.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Pierre Trudeau",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pierre_Trudeau_%281975%29.jpg/432px-Pierre_Trudeau_%281975%29.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Lester B. Pearson",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Lester_B._Pearson_1957.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "John Diefenbaker",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/John_G._Diefenbaker.jpg",
+    "clicked": false
+  }
+]

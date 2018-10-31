@@ -1,0 +1,57 @@
+.card {
+  border: 4px rgb(10, 10, 10) solid;
+  border-radius: 2px;
+  width: 120px;
+  height: 150px;
+  margin: 25px;
+  position: relative;
+  box-shadow: 4px 4px 10px rgb(10, 10, 10);
+  transition: all 0.2s ease-in-out;
+}
+
+.card > .img-container {
+  height: 100%;
+  overflow: hidden;
+  background: rgb(255, 255, 255);
+}
+
+.card > .img-container > img {
+  height: 118%;
+}
+
+.card > .img-content {
+  padding: 10px 0;
+  color: black;
+  text-align: center;
+}
+
+.card:hover {
+  box-shadow: 8px 8px 20px rgb(10, 10, 10);
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.card:active {
+  transform: translate(1px, 1px);
+}
+
+@media only screen and (max-width: 750px) {
+  .card {
+    border: 4px rgb(10, 10, 10) solid;
+    border-radius: 2px;
+    width: 120px;
+    height: 150px;
+    margin: 50px;
+    position: relative;
+    box-shadow: 4px 4px 10px rgb(10, 10, 10);
+    transition: all 0.2s ease-in-out;
+    
+  }
+
+  .card > .img-content {
+    padding: 10px 0;
+    color: black;
+    text-align: center;
+  }
+}
+

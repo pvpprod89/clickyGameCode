@@ -1,0 +1,11 @@
+.wrapper {
+  background: rgb(175, 175, 175);
+  background-image: url('https://images.pexels.com/photos/988872/pexels-photo-988872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  padding-bottom: 50px;
+}

@@ -1,0 +1,24 @@
+.title {
+  width: 100%;
+  text-align: right;
+  font-size: 2rem;
+  color:black;
+  /* margin-bottom: 50px; */
+  margin-bottom: 0px;
+  padding-left: 3%;
+  padding-right: 3%;
+  text-decoration: underline;
+}
+
+@media only screen and (max-width: 750px) {
+  .title {
+    width: 100%;
+    text-align: right;
+    font-size: 2rem;
+    color:black;
+    /* margin-bottom: 50px; */
+    margin-bottom: -25px;
+    padding-left: 3%;
+    padding-right: 3%;
+  }
+}
